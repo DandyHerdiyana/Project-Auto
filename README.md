@@ -1,13 +1,13 @@
-# 🚀 Functional Dashboard Project
+# 🚀 Dashboard Project 🚀
 
-Welcome to the **Functional Dashboard Project**! This project demonstrates how to create a powerful, interactive dashboard for displaying data, managing content, or controlling any necessary application features. With a sleek user interface, this dashboard is fully functional and can be customized for different use cases.
+Selamat datang **Dashboard Project**! Tugas ini mendemonstrasikan membuat dasbor yang fleksibel dan interaktif untuk menampilkan data, mengelola konten, atau mengontrol fitur aplikasi yang diperlukan. Dengan antarmuka pengguna yang canggih, dasbor ini berfungsi penuh dan dapat disesuaikan untuk berbagai kasus penggunaan.
 
 ![Dashboard Image](https://via.placeholder.com/1200x600.png?text=Dashboard+Preview) <!-- Add an image of your dashboard here -->
 
 ## Features 🌟
-- **Real-Time Data Display**: Seamlessly display live data with updated charts and metrics.
-- **Customizable Widgets**: Easily add, remove, or configure dashboard widgets to suit your needs.
-- **User-Friendly Interface**: Clean, modern design for a smooth user experience.
-- **Interactive Components**: Clickable elements for advanced functionalities like filtering and navigation.
-- **Responsive Layout**: Fully responsive, ensuring the dashboard looks great on all devices.
-- **Data Export**: Download data in CSV/Excel formats directly from the dashboard.
+- **Real-Time Data Display**: Menampilkan data langsung secara lancar dengan diagram dan metrik yang diperbarui.
+- **Customizable Widgets**: Tambahkan, hapus, atau konfigurasikan widget dasbor dengan mudah sesuai kebutuhan Anda.
+- **User-Friendly Interface**: Desain bersih dan modern untuk pengalaman pengguna yang lancar.
+- **Interactive Components**: Elemen yang dapat diklik untuk fungsionalitas tingkat lanjut seperti pemfilteran dan navigasi.
+- **Responsive Layout**: Sepenuhnya responsif, memastikan dasbor terlihat bagus di semua perangkat.
+- **Data Export**: Unduh data dalam format CSV/Excel langsung dari dashboard.
