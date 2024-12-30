@@ -7,6 +7,9 @@ Route::get('/', function () {
 });
 
 Route::get('admin/dashboard', function () {
-    return view('admin/dashboard');
+    return view('admin.dashboard');
 });
 
+Route::get('admin/list', function () {
+    return view('admin.list');
+});
