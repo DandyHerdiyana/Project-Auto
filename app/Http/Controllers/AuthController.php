@@ -6,5 +6,13 @@ use Illuminate\Http\Request;
 
 class AuthController extends Controller
 {
-    //
+    public function login()
+    {
+        return view('auth.login');
+    }
+
+    public function authLogin(Request $request)
+    {
+        dd($request->all());
+    }
 }
